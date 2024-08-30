@@ -1,0 +1,27 @@
+bold
+italic
+underline
+heading --> 6 h1-h6
+paragraph info attribute
+horizontal line hr
+break the line br
+img `. src. alt
+anchor --> href & target attribute
+ordered list ol
+list items li
+unordered list 
+Descriptive List dl
+Descriptive Title dt
+Description Data dd
+span tag 
+
+
+Elements 
+
+1. BLOCK LEVEL ELEMENT 
+  h1, p etc 
+
+2. INLINE ELEMENT 
+
+3. INLINE BLOCK LEVEL ELEMENT 
+
